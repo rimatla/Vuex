@@ -1,7 +1,14 @@
 ## Intro to Vuex
 `npm run dev`
 
-![alt text](vuex.png?raw=true "app image")
+## v2.1.0 Module Namespacing
+`https://github.com/vuejs/vuex`
 
+### Vuex docs
+`https://github.com/vuejs/vuex`
+
+`https://vuex.vuejs.org/en/`
+
+![alt text](vuex.png?raw=true "app image")
 ___
 ![alt text](vuex-pat.png?raw=true "app image")
