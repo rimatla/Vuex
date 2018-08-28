@@ -1,4 +1,4 @@
-## Intro to Vuex
+## Intro to [Vuex](https://vuex.vuejs.org/)
 `npm run dev`
 
 ## v2.1.0 Module Namespacing
